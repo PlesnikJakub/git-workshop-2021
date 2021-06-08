@@ -5,8 +5,6 @@ Welcome to test repository for our git workshop :rocket:
 1. first line in readme must be very important !!!
 2. 1. first line in readme must be very important !!!
 3. 1. first line in readme must be very important !!!
-4. 1. first line in readme must be very important !!!
-5. 1. first line in readme must be very important !!!
 
 ## What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
